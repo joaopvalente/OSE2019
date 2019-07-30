@@ -1,0 +1,5 @@
+
+------ Lecture 3 -------
+
+Q4: project Asian Option: what step should I use? The volatility seems to be set for a 1Y period. Should I use years?
+
